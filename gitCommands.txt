@@ -1,0 +1,6 @@
+mkdir git-demo
+cd git-demo
+git init
+
+git add gitCommands.txt
+git commit -m "Add gitCommands.txt with 5 git commands" 
